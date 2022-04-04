@@ -82,7 +82,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 2
 Potongan kode yang perlu disisipkan adalah
-```
+```python
 # Pada bagian animate, 2 pi * 0.01 i berkorespondensi dengan pi t (T = 2 sekon) dengant dalam sekon di dunia nyata. Sehingga, bagian waktu tidak perlu diubah.
 # Bagian yang diubah hanyalah bagian posisi
 def animate(i):
@@ -109,7 +109,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
-```
+```python
 # Pada bagian animate, 2 pi * 0.01 i berkorespondensi dengan pi t (T = 2 sekon) dengant dalam sekon di dunia nyata. Sehingga, bagian waktu tidak perlu diubah.
 # Bagian yang diubah hanyalah bagian posisi
 def animate(i):
@@ -136,7 +136,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang stasion
 
 ### answer 4
 Potongan kode yang perlu disisipkan adalah
-```
+```python
 # Pada bagian animate, 2 pi * 0.01 i berkorespondensi dengan pi t (T = 2 sekon) dengant dalam sekon di dunia nyata. Sehingga, bagian waktu tidak perlu diubah.
 # Bagian yang diubah hanyalah bagian posisi
 def animate(i):
