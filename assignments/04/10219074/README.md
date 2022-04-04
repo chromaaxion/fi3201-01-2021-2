@@ -101,7 +101,7 @@ else:
 	plt.show()
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](wave_right.gif)
 
 
 ## question 3
@@ -128,7 +128,7 @@ else:
 	plt.show()
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![gif file from simulation wave to left](wave_left.gif)
 
 
 ## question 4
@@ -155,4 +155,4 @@ else:
 	plt.show()
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![gif file from simulation wave stationary](wave_stationary.gif)
